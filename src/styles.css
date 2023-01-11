@@ -14,7 +14,7 @@ h1 {
     font-family: 'Orbitron', sans-serif;
     font-size: 4em;
     font-weight: 500;
-    color: #B0C4DE;
+    color: #ffff;
 }
 
 /* layout & clock shape */
@@ -27,7 +27,7 @@ h1 {
 .clock {
     width: 25em;
     height: 12em;
-    background: #7B68EE;
+    background: #CCCCFF;
     border-radius: 20px;
 }
 
